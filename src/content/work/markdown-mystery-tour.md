@@ -6,12 +6,13 @@ img_alt: sudoku solver
 description: |
   Dans le cadre de mes études, nous avons réalisé en binôme, deux algorithmes de résolution de Sudoku, accompagnés d'un site web retraçant l'histoire de ce célèbre jeu. Le site propose des grilles à résoudre, mettant à disposition nos deux algorithmes pour une résolution complète et partielle des grilles.
 
-  Découvrez ce projet en détail <a href="https://github.com/Selim-Hamza/Sudokusolver">ici.</a>
 tags:
   - C#
   - HTML
   - CSS
 ---
+
+ Découvrez ce projet en détail <a href="https://github.com/Selim-Hamza/Sudokusolver">ici.</a>
 
 ## Résolution par back traking
 
