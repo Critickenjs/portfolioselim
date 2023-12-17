@@ -4,7 +4,7 @@ publishDate: 2023-05-04 00:00:00
 img: /assets/recettes.png
 img_alt: Image frigo
 description: |
-Nous avons conçu, par groupe de trois, une application proposant à l'utilisateur des recettes de cuisine en fonction de nombreux paramètres le concernant, tels que les aliments dont il dispose, son budget, ses préférences...
+  Nous avons conçu, par groupe de trois, une application proposant à l'utilisateur des recettes de cuisine en fonction de nombreux paramètres le concernant, tels que les aliments dont il dispose, son budget, ses préférences...
 tags:
   - C#
   - Net
