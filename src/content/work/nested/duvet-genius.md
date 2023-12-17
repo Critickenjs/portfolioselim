@@ -7,7 +7,7 @@ description: |
   Nous avons conçu, par groupe de trois, une application proposant à l'utilisateur des recettes de cuisine en fonction de nombreux paramètres le concernant, tels que les aliments dont il dispose, son budget, ses préférences...
 tags:
   - C#
-  - Net
+  - .Net
   - SQL
 ---
 
