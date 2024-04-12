@@ -23,9 +23,6 @@ Création de servlets contrôleurs
 Utilisation de JDBC pour la communication avec la base de données
 Conception et mise en place d'une structure de projet web
 
-### Savoir-être acquis :
-
-L'algorithme de résolution que nous avons élaboré repose sur des techniques inspirées de la manière dont un joueur humain aborderait la résolution partielle des grilles de Sudoku. Plutôt que d'adopter une approche brute-force, cet algorithme utilise des méthodes plus sophistiquées pour identifier et placer les chiffres manquants de manière logique.
 
 ### Savoir-être acquis :
 
