@@ -1,5 +1,5 @@
 ---
-title: Jeu en ligne multi-joueur de type sur le thème de Dragon Ball
+title: Jeu en ligne multi-joueur sur le thème de Dragon Ball
 publishDate: 2024-03-01 00:00:00
 img: /assets/trunks.jpg
 img_alt: dragon shooter game
