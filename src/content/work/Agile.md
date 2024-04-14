@@ -12,7 +12,7 @@ tags:
 
  Découvrez ce projet en détail <a href="https://github.com/anasouh/S3.02">ici.</a>
 
-## Compétences techniques acquises :
+## Compétences techniques acquises
 
 Maîtrise du développement de jeux vidéo en Java, incluant la manipulation des graphiques, la gestion des entrées/sorties et la logique de jeu.
 
@@ -20,16 +20,16 @@ Expérience pratique de la méthodologie agile, comprenant la planification ité
 
 Capacité à gérer des cycles de développement rapides tout en maintenant la qualité du code et la fonctionnalité du produit final.
 
-### Savoir-être acquis :
+### Savoir-être acquis
 
-#### Apprentissage rapide :  
+#### Apprentissage rapide  
+
  La rapidité d'apprentissage a été cruciale pour assimiler de nouveaux concepts et technologies nécessaires au développement du jeu.
 
-####  Résilience : 
+#### Résilience
+
  Face aux contraintes de temps et aux difficultés techniques, une résilience et une détermination constantes ont été nécessaires pour maintenir la motivation et l'engagement tout au long du projet
 
-#### Collaboration : 
+#### Collaboration
+
  La communication constante et la collaboration entre les membres de l'équipe ont été essentielles pour relever le défi de développer un jeu fonctionnel en un temps limité.
-
-
-

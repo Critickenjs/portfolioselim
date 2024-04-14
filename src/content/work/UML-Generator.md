@@ -12,23 +12,30 @@ tags:
 ---
 
 
-## Compétences techniques acquises :
+## Compétences techniques acquises
 
-#### Maîtrise de Java Doclet :
+#### Maîtrise de Java Doclet
+
  Nous avons acquis une compréhension approfondie de Java Doclet, un outil standard dans l'écosystème Java utilisé pour générer une documentation personnalisée à partir du code source Java.
-#### Conception de Diagrammes UML : 
+
+#### Conception de Diagrammes UML
+
 Nous avons développé des compétences dans la création de diagrammes UML, comprenant la représentation des classes, des méthodes, des attributs et des relations, et leur intégration dans la documentation générée.
-#### Collaboration en Binôme : 
+
+#### Collaboration en Binôme
+
 Travailler en binôme nous a permis de développer des compétences en communication, en partage des tâches et en résolution de problèmes en équipe.
 
-### Savoir-être acquis :
+### Savoir-être acquis
 
-#### Collaboration :  
+#### Collaboration  
+
 La collaboration avec mon binôme a été essentielle pour le succès du projet, nécessitant une communication claire, une répartition équitable des tâches et une résolution efficace des problèmes rencontrés.
 
-####  Pensée Analytique : 
+#### Pensée Analytique
+
   L'analyse approfondie des structures et relations au sein du code Java a nécessité une pensée analytique pour comprendre et représenter efficacement les concepts dans les diagrammes UML.
 
-#### Adaptabilité : 
-   Faire face à des défis techniques et ajuster notre approche en fonction des besoins du projet a exigé une grande adaptabilité pour répondre aux exigences changeantes.
+#### Adaptabilité
 
+   Faire face à des défis techniques et ajuster notre approche en fonction des besoins du projet a exigé une grande adaptabilité pour répondre aux exigences changeantes.

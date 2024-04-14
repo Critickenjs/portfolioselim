@@ -14,22 +14,22 @@ tags:
 
  Découvrez ce projet en détail <a href="https://github.com/Selim-Hamza/Sudokusolver">ici.</a>
 
-## Compétences techniques acquises :
+## Compétences techniques acquises
 
 Maîtrise de la conception et de l'implémentation d'algorithmes de résolution de problèmes complexes, en l'occurrence le Sudoku.
 Expertise dans le développement web, incluant la création d'une interface utilisateur attrayante et conviviale, ainsi que l'intégration de fonctionnalités interactives.
 Capacité à travailler en binôme, en partageant les tâches de manière efficace et en assurant une collaboration harmonieuse pour atteindre les objectifs du projet.
 
-### Savoir-être acquis :
+### Savoir-être acquis
 
-#### Collaboration :  
+#### Collaboration  
+
  La réalisation de ce projet en binôme a nécessité une collaboration étroite, favorisant ainsi le partage des idées, la résolution des problèmes et la complémentarité des compétences.
 
-####  Persévérance : 
+#### Persévérance
+
  Face aux défis posés par la conception d'algorithmes efficaces pour résoudre des grilles de Sudoku, une persévérance et une détermination constantes ont été nécessaires pour aboutir à des solutions fonctionnelles.
 
-#### Créativité : 
+#### Créativité
+
 La création d'un site web attrayant pour présenter les algorithmes de résolution de Sudoku a encouragé une approche créative, permettant d'offrir une expérience utilisateur enrichissante et immersive.
-
-
-
