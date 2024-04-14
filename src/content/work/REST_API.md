@@ -12,7 +12,7 @@ tags:
   - Jackson JSON
 ---
 
- Découvrez ce projet en détail <a href="https://github.com/Selim-Hamza/Sudokusolver">ici.</a>
+ Découvrez ce projet en détail <a href="https://github.com/Selim-Hamza/pizzaRestAPI">ici.</a>
 
 ## Compétences techniques acquises :
 
