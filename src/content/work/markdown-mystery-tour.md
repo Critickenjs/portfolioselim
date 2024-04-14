@@ -16,11 +16,11 @@ tags:
 
 ## Compétences techniques acquises :
 
-##### Maîtrise de la conception et de l'implémentation d'algorithmes de résolution de problèmes complexes, en l'occurrence le Sudoku.
+##### - Maîtrise de la conception et de l'implémentation d'algorithmes de résolution de problèmes complexes, en l'occurrence le Sudoku.
 
-##### Expertise dans le développement web, incluant la création d'une interface utilisateur attrayante et conviviale, ainsi que l'intégration de fonctionnalités interactives.
+##### - Expertise dans le développement web, incluant la création d'une interface utilisateur attrayante et conviviale, ainsi que l'intégration de fonctionnalités interactives.
 
-##### Capacité à travailler en binôme, en partageant les tâches de manière efficace et en assurant une collaboration harmonieuse pour atteindre les objectifs du projet.
+##### - Capacité à travailler en binôme, en partageant les tâches de manière efficace et en assurant une collaboration harmonieuse pour atteindre les objectifs du projet.
 
 ### Savoir-être acquis :
 
