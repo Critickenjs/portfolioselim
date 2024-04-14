@@ -16,11 +16,11 @@ tags:
 
 ## Compétences techniques acquises :
 
-##### - Maîtrise du développement backend avec SpringBoot, y compris la création d'une API REST, la gestion de la persistance des données et la sécurité.
+ - Maîtrise du développement backend avec SpringBoot, y compris la création d'une API REST, la gestion de la persistance des données et la sécurité.
 
-##### - Expertise dans le développement frontend avec Angular, notamment la création de composants, le routage, la gestion des formulaires et l'intégration de services.
+ - Expertise dans le développement frontend avec Angular, notamment la création de composants, le routage, la gestion des formulaires et l'intégration de services.
 
-##### - Capacité à travailler avec des technologies complémentaires pour créer une application web complète, du backend au frontend.
+ - Capacité à travailler avec des technologies complémentaires pour créer une application web complète, du backend au frontend.
 
 ### Savoir-être acquis :
 
