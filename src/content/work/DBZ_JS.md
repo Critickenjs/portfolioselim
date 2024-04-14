@@ -1,7 +1,7 @@
 ---
 title: Jeu en ligne multi-joueur sur le thème de Dragon Ball
 publishDate: 2024-03-01 00:00:00
-img: /assets/saiyanshooter.gif
+img: /assets/trunks.jpg
 img_alt: dragon shooter game
 description: |
  En trinome, nous avons développer un jeu en ligne multi-joueur de type "shoot them up" inspiré de l'univers de Dragon Ball. Les joueurs pourront s'affronter en ligne dans des combats épiques, contrôlant des personnages inspirés des célèbres guerriers de Dragon Ball. Le jeu comprendra des fonctionnalités telles que le choix de pseudo et d'options de personnalisation, la gestion de la difficulté des parties en cours, l'affichage des meilleurs scores, ainsi que la possibilité de rejoindre un ami en ligne !
