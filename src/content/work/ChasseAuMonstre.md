@@ -17,15 +17,15 @@ tags:
 
 ## Compétences techniques acquises :
 
-#### Implémentation de l'algorithme A* pour l'IA du monstre
+##### Implémentation de l'algorithme A* pour l'IA du monstre
 
-#### Développement d'un algorithme personnalisé pour l'IA du chasseur
+##### Développement d'un algorithme personnalisé pour l'IA du chasseur
 
-#### Conception et développement d'une interface utilisateur ergonomique pour contrôler les personnages (chasseur, monstre) avec JavaFX
+##### Conception et développement d'une interface utilisateur ergonomique pour contrôler les personnages (chasseur, monstre) avec JavaFX
 
-#### Gestion des différents aspects du jeu, tels que les déplacements, le plateau de jeu et le retour d'information
+##### Gestion des différents aspects du jeu, tels que les déplacements, le plateau de jeu et le retour d'information
 
-#### Collaboration en équipe de 5 pour la réalisation du projet
+##### Collaboration en équipe de 5 pour la réalisation du projet
 
 ### Savoir-être acquis :
 
