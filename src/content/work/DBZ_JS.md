@@ -16,12 +16,17 @@ tags:
 
 ## Compétences techniques acquises :
 
-Utilisation de PIXI.js pour la gestion de la vue côté client
-Implémentation de socket.io pour la communication entre client et serveur
-Conception et développement d'un jeu multi-joueur en ligne
-Gestion des déplacements d'avatar à l'aide de la souris ou du clavier
-Fonctions mathématique pour gérer la vitesse de déplacement dans l'espace.
-Utilisation de Node.js pour la mise en place du serveur
+###### Utilisation de PIXI.js pour la gestion de la vue côté client
+
+###### Implémentation de socket.io pour la communication entre client et serveur
+
+###### Conception et développement d'un jeu multi-joueur en ligne
+
+###### Gestion des déplacements d'avatar à l'aide de la souris ou du clavier
+
+###### Fonctions mathématique pour gérer la vitesse de déplacement dans l'espace.
+
+###### Utilisation de Node.js pour la mise en place du serveur
 
 ### Savoir-être acquis :
 

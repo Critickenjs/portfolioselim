@@ -16,12 +16,17 @@ tags:
 
 ## Compétences techniques acquises :
 
-Implémentation d'un service REST
-Gestion des requêtes HTTP (GET, POST)
-Utilisation de Jackson pour la conversion JSON
-Création de servlets contrôleurs
-Utilisation de JDBC pour la communication avec la base de données
-Conception et mise en place d'une structure de projet web
+###### Implémentation d'un service REST
+
+###### Gestion des requêtes HTTP (GET, POST)
+
+###### Utilisation de Jackson pour la conversion JSON
+
+###### Création de servlets contrôleurs
+
+###### Utilisation de JDBC pour la communication avec la base de données
+
+###### Conception et mise en place d'une structure de projet web
 
 
 ### Savoir-être acquis :
