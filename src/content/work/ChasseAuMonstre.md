@@ -13,7 +13,7 @@ tags:
   - JavaFX
 ---
 
- Découvrez ce projet en détail <a href="https://github.com/Selim-Hamza/MonsterHunter">ici.</a>
+ Découvrez ce projet en détail <a href="https://github.com/Selim-Hamza/Sudokusolver">ici.</a>
 
 ## Compétences techniques acquises :
 

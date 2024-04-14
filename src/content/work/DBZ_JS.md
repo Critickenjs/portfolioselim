@@ -12,7 +12,7 @@ tags:
   - Socket.io
 ---
 
- Découvrez ce projet en détail <a href="https://github.com/Selim-Hamza/dragonShooter">ici.</a>
+ Découvrez ce projet en détail <a href="https://github.com/Selim-Hamza/Sudokusolver">ici.</a>
 
 ## Compétences techniques acquises :
 
