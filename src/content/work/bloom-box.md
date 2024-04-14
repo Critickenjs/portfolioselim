@@ -4,14 +4,32 @@ publishDate: 2023-09-01 00:00:00
 img: /assets/Agile.jpg
 img_alt: Agile cycle
 description: |
- Réalisation d'un jeu video en 3 jours en utilisant la méthode AGILE.
+  Ce projet s'est concentré sur l'application des méthodes agiles dans le développement d'un jeu vidéo en Java. En seulement trois jours, notre équipe a transformé des concepts théoriques en une expérience pratique en mettant en œuvre les principes agiles pour créer un jeu fonctionnel et divertissant.
 tags:
   - Java
   - Agilité
 ---
 
-L'objectif fondamental de ce projet résidait dans la découverte concrète de la méthodologie agile, tout en nous plongeant de manière immersive dans le processus de codage après les vacances d'été. En mettant en pratique les principes agiles, notre équipe s'est attaquée à la réalisation d'un jeu vidéo en Java en seulement trois jours, transformant ainsi les concepts théoriques en une expérience pratique et enrichissante.
+Découvrez ce projet en détail <a href="https://github.com/anasouh/S3.02">ici.</a>
 
-Cette initiative visait à nous familiariser avec les cycles de développement rapides, la flexibilité des itérations, et l'importance de la communication constante au sein de l'équipe. C'était une opportunité de mettre en pratique les compétences acquises au fil de nos études tout en assimilant de nouvelles méthodologies de travail.
+## Compétences techniques acquises :
 
-Le projet a ainsi servi de pont entre la théorie et la pratique, nous permettant de renouer avec le code après une période de vacances. En adoptant la méthode agile, nous avons non seulement relevé le défi de créer un jeu en un temps limité, mais également consolidé nos connaissances en développement tout en intégrant des concepts modernes de gestion de projet.
+Maîtrise du développement de jeux vidéo en Java, incluant la manipulation des graphiques, la gestion des entrées/sorties et la logique de jeu.
+
+Expérience pratique de la méthodologie agile, comprenant la planification itérative, la réactivité aux changements et la collaboration en équipe.
+
+Capacité à gérer des cycles de développement rapides tout en maintenant la qualité du code et la fonctionnalité du produit final.
+
+### Savoir-être acquis :
+
+#### Apprentissage rapide :  
+ La rapidité d'apprentissage a été cruciale pour assimiler de nouveaux concepts et technologies nécessaires au développement du jeu.
+
+####  Résilience : 
+ Face aux contraintes de temps et aux difficultés techniques, une résilience et une détermination constantes ont été nécessaires pour maintenir la motivation et l'engagement tout au long du projet
+
+#### Collaboration : 
+ La communication constante et la collaboration entre les membres de l'équipe ont été essentielles pour relever le défi de développer un jeu fonctionnel en un temps limité.
+
+
+
