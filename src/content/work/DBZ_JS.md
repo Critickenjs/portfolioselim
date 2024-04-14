@@ -16,9 +16,10 @@ tags:
 
 ## Compétences techniques acquises :
 
-* - Utilisation de PIXI.js pour la gestion de la vue côté client
+*  
+  Utilisation de PIXI.js pour la gestion de la vue côté client
 
- - Implémentation de socket.io pour la communication entre client et serveur
+  Implémentation de socket.io pour la communication entre client et serveur
 
  - Conception et développement d'un jeu multi-joueur en ligne
 
