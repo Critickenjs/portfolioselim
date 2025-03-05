@@ -1,62 +1,106 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ContactCTA from '../components/ContactCTA.astro';
+import Icon from '../components/Icon.astro';
 
 ---
 
-<BaseLayout title="Expérience professionnelle | Sélim Hamza" description="Parcours professionnel et expérience">
-  <div class="stack gap-20 lg:gap-48">
-    <header>
-      <h1>Mon expérience professionnelle</h1>
-      <p>Voici un aperçu des expériences professionnelles qui ont marqué mon parcours.</p>
-    </header>
+<BaseLayout title="Expérience professionnelle | Sélim Hamza" description="Détail de mes expériences professionnelles et de mes compétences acquises">
+	<div class="stack gap-20 lg:gap-48">
+		<main class="wrapper stack gap-8 lg:gap-20">
+			<header class="section-header">
+				<h1>Mon expérience professionnelle</h1>
+				<p>Découvrez les missions réalisées au sein de mes stages et de mon alternance, ainsi que les compétences techniques et outils que j'ai acquis tout au long de ces expériences.</p>
+			</header>
 
-    <section class="experience">
-      <h2>Développeur Alternant – Interiale</h2>
-      <p><strong>Durée :</strong> Depuis [Mois, Année]</p>
-      <p><strong>Localisation :</strong> Lille, France</p>
-      <p>
-        En tant qu’alternant chez **Interiale**, une mutuelle spécialisée dans la gestion des régimes de santé, j'ai travaillé sur plusieurs projets significatifs, notamment la **migration d’une application de signatures électroniques**. J'ai eu l’opportunité de travailler avec **SpringBoot** pour la partie backend et d’appliquer des principes d’**architecture hexagonale** et **Domain-Driven Design (DDD)** pour améliorer la structure du code et la performance de l’application.
-      </p>
+			<section class="experience">
+				<h2>Alternance - Développeur chez <b>Interiale</b></h2>
+				<p><b>Durée :</b> 09/2024 - 08/2025</p>
+				<p><b>Entreprise :</b> <b>Interiale</b>, Lille</p>
+				<img src="/assets/interiale.png" alt="Logo Interiale" width="150" height="50" />
 
-      <h3>Principales missions :</h3>
-      <ul>
-        <li>Migration d'une architecture REST vers une architecture **hexagonale**.</li>
-        <li>Développement de nouvelles fonctionnalités dans une équipe agile.</li>
-        <li>Collaboration avec les équipes frontend pour assurer une intégration fluide.</li>
-        <li>Utilisation de **SVN** pour le versioning du code.</li>
-      </ul>
+				<h4>Résumé des missions :</h4>
+				<ul>
+					<li>Migration de l'application de <b>signatures électroniques des adhérents</b> vers une nouvelle architecture.</li>
+					<li>Mise en œuvre et adoption de l'<b>architecture hexagonale DDD</b> pour la refonte de l'architecture du backend.</li>
+					<li>Apprentissage et utilisation de <b>SVN  </b> pour récupérer du code dans le cadre de la migration des parties de l'application.</li>
+					<li>Collaboration avec l'équipe pour la mise en place de nouvelles fonctionnalités, y compris les services backend en <b>Spring Boot</b> et l'optimisation des flux de données.</li>
+				</ul>
 
-      <h2>Stage Développement – [Nom de l'entreprise]</h2>
-      <p><strong>Durée :</strong> [Mois, Année] à [Mois, Année]</p>
-      <p><strong>Localisation :</strong> [Ville, Pays]</p>
-      <p>Lors de ce stage, j’ai travaillé sur [description de l'expérience, des technologies utilisées, des compétences développées].</p>
-    </section>
+				<h4>Compétences techniques acquises :</h4>
+				<ul>
+					<li><b>SpringBoot</b> pour la mise en place d'une architecture backend moderne.</li>
+					<li><b>Architecture hexagonale</b> et <b>Domain-Driven Design (DDD)</b> pour une gestion efficace du code et des services.</li>
+					<li>Rétroingénierie d'une application en <b>Java 8</b> pour comprendre et migrer une ancienne version de l'application.</li>
+					<li>Utilisation de <b>Spring Boot</b> pour la création de services RESTful.</li>
+				</ul>
+			</section>
 
-    <ContactCTA />
-  </div>
+			<section class="experience">
+				<h2>Stage - Développeur chez <b>Interiale</b></h2>
+				<p><b>Durée :</b> 12 semaines (03/2024 - 08/2024)</p>
+				<p><b>Entreprise :</b> <b>Intériale</b>, Lille</p>
+				<img src="/assets/interiale.png" alt="Logo Interiale" width="150" height="50" />
+
+				<h4>Résumé des missions :</h4>
+				<ul>
+					<li>Développement d'un <b>outil de retraitement des rejets d'intégration en GED</b> (Gestion Électronique des Documents).</li>
+					<li>Analyse et conception de solutions pour automatiser la reprise des plis erronés dans le système GED.</li>
+					<li>Développement de la partie <b>frontend</b> en <b>Angular</b>, permettant aux utilisateurs de visualiser les erreurs et de les corriger facilement.</li>
+					<li>Réalisation du <b>backend</b> en <b>Java</b> et <b>Spring Boot</b> pour intégrer les données dans la base et gérer les actions via des services REST.</li>
+				</ul>
+
+				<h4>Compétences techniques acquises :</h4>
+				<ul>
+					<li>Développement <b>Angular</b> pour la création d'interfaces utilisateurs dynamiques.</li>
+					<li>Création de services backend avec <b>Spring Boot</b>.</li>
+					<li>Conception d’<b>API REST</b> et de services pour le traitement des données.</li>
+					<li>Intégration avec des bases de données pour la gestion des flux d’information.</li>
+				</ul>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
 </BaseLayout>
 
 <style>
-  .experience {
-    padding: 2rem;
-    background-color: var(--gray-100);
-    border-radius: 1rem;
-    box-shadow: var(--shadow-md);
-  }
+	.experience {
+		padding: 2rem;
+		background-color: var(--gray-100);
+		border-radius: 1rem;
+		box-shadow: var(--shadow-md);
+    color: var(--gray-800);
+	}
 
-  .experience h2 {
-    font-size: var(--text-2xl);
-    margin-bottom: 1rem;
-  }
+	.experience h2{
+		font-size: var(--text-2xl);
+		margin-bottom: 1rem;
+    color: var(--gray-800);
+	}
 
-  .experience p {
-    font-size: var(--text-md);
-    color: var(--gray-500);
-  }
+  .experience h4{
+    font-size: var(--text-xl); 
+    margin-top: 1rem;
+		margin-bottom: 1rem;
+    color: var(--gray-800);
+	}
 
-  .experience ul {
-    list-style-type: disc;
-    margin-left: 20px;
-  }
+  .
+	.experience p {
+		font-size: var(--text-md);
+		color: var(--gray-500);
+	}
+
+	.experience ul {  
+		list-style-type: disc;
+		margin-left: 20px;
+    line-height: 30px;
+	}
+
+	.experience img {
+		margin-top: 1rem;
+		border-radius: 1rem;
+		box-shadow: var(--shadow-sm);
+	}
 </style>
