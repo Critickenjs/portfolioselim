@@ -1,0 +1,114 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactCTA from '../components/ContactCTA.astro';
+import Icon from '../components/Icon.astro';
+import { getCollection } from 'astro:content';
+import Hero from '../components/Hero.astro';
+import Grid from '../components/Grid.astro';
+
+
+
+// Charger les compétences à partir des fichiers markdown dans 'competences'
+const competences = (await getCollection('competences')).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+---
+
+<BaseLayout title="Compétences | Sélim Hamza" description="Détail des compétences techniques acquises au cours de mes études et de mon alternance.">
+  <div class="stack gap-20 lg:gap-48">
+    <main class="wrapper skills">
+      <header class="section-header">
+        <h1>Mes compétences</h1>
+        <p>Voici un aperçu de mes compétences techniques acquises tout au long de mon parcours scolaire et de mon alternance. Cliquez sur chaque matière pour en découvrir les détails.</p>
+      </header>
+
+      <!-- Compétences Grid -->
+      <section class="competences">
+        <div class="competences-grid">
+          {competences.map((competence) => (
+            <div class="competence">
+              <a href={`/competences/${competence.slug}`}>
+                <img src={competence.data.img} alt={competence.data.title} />
+                <h3>{competence.data.title}</h3>
+                <p>{competence.data.description}</p>
+              </a>
+            </div>
+          ))}
+        </div>
+      </section>
+    </main>
+
+    <ContactCTA />
+  </div>
+</BaseLayout>
+
+<style>
+  .skills {
+    padding: 2rem;
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .section-header h1 {
+    font-size: var(--text-4xl);
+    margin-bottom: 1rem;
+  }
+
+  .section-header p {
+    font-size: var(--text-lg);
+    color: var(--gray-500);
+  }
+
+  .competences-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 2rem;
+    justify-items: center;
+  }
+
+  .competence {
+    text-align: center;
+    border-radius: 1.5rem;
+    box-shadow: var(--shadow-md);
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .competence a {
+    display: block;
+    text-decoration: none;
+    color: var(--gray-800);
+    transition: background-color 0.3s;
+  }
+
+  .competence img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-bottom: 1px solid var(--gray-300);
+  }
+
+  .competence h3 {
+    font-size: var(--text-xl);
+    margin-top: 1rem;
+  }
+
+  .competence p {
+    font-size: var(--text-md);
+    color: var(--gray-100);
+    margin-top: 0.5rem;
+    padding: 0 1rem;
+  }
+
+  .competence:hover {
+    transform: scale(1.05);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .competence a:hover {
+    background-color: var(--gray-100);
+  }
+</style>
